@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## My GitHub Language Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelay&layout=compact&hide=html,css&custom_title=Languages%20I%20Use%20Most)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
