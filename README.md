@@ -21,8 +21,6 @@ Visit My GitHub Portfolio
 
 https://birukbelihu.github.io/portfolio/
 
-## Social Media Pages
-
 If You Want Android App Development Tutorials & Projects Check My Social Media Pages.
 
 **Telegram** :- https://t.me/androiddevstutorial
