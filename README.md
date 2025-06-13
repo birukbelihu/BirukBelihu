@@ -21,4 +21,19 @@ Visit My GitHub Portfolio
 
 https://birukbelihu.github.io/portfolio/
 
+## Social Media Pages
+
+If You Want Android App Development Tutorials & Projects Check My Social Media Pages.
+
+**Telegram** :- https://t.me/androiddevstutorial
+
+**YouTube** :- https://youtube.com/@AndroidDevsTutorials
+
+**Blogger** :- https://androiddevelopersb.blogspot.com
+
+**WhatsApp** :- https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K
+
+**LinkTree** :-
+https://linktr.ee/androiddeveloperspage
+
 
