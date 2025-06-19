@@ -19,7 +19,7 @@ Welcome to my GitHub Profile! I'm a **Software Engineer** and **Computer Science
 <summary>📂 <strong>Apps</strong> (see more)</summary>
 
 ### 🔶 ባሕረሐሳብ 
-A modern Ethiopian calendar with religious holidays and fasting periods.  
+A modern Ethiopian calendar that shows **Ethiopian Orthodox Tewahido Church** holidays, fasting periods, and church events based on traditional Bahere Hasab calculations.
 
 <a href='https://com-bibelapps-baherehasab.en.uptodown.com/android' title='Download ባህረሐሳብ' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download ባህረሐሳብ'>
@@ -35,20 +35,19 @@ Easily convert between **Geez (ግዕዝ)** and Arabic numerals. This app is gre
 ---
 
 ### 📱 Ethio+ Safari App  
-A lightweight, fast, and user-friendly **telecom companion app** for Ethiopian users. It simplifies common Ethio Telecom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
+A lightweight, fast, and user-friendly **Ethio Telecom** & **Safaricom** USSD Services ciient for Ethiopian users. It simplifies common Ethio Telecom & Safaricom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
 
 <a href='https://ethio-plus-safari.en.uptodown.com/android' title='Download Ethio+ Safari'>
   <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Ethio+ Safari' width='200'>
 </a>
+/details>
 
+---
 
 ### 🟩 pynum2words  
 Multilingual number-to-words and words-to-number converter in Python.  
 [![PyPI](https://img.shields.io/pypi/v/pynum2words?color=brightgreen&logo=pypi)](https://pypi.org/project/pynum2words)  
 [![View on GitHub](https://img.shields.io/badge/Repo-Link-blue?logo=github)](https://github.com/birukbelihu/pynum2words)
-</details>
-
----
 
 📚 **Follow me for Android tutorials & dev content:**
 - **Telegram** 👉 [AndroidDevsTutorial](https://t.me/androiddevstutorial)
