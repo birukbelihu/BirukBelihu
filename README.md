@@ -6,7 +6,7 @@ Welcome to my GitHub Profile! I'm a **Software Engineer** and **Computer Science
 - 📱 Android development (Java)
 - 🧠 Machine Learning & Computer Vision
 - 🖥️ Python automation (GUI/CLI/Web tools)
-- 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች)
+- 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች & Ethio + Safari Apps & More)
 
 ---
 
