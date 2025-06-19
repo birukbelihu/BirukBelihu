@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Biruk Belihu
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=birukbelihu.BirukBelihu)
+
 Welcome to my GitHub Profile! I'm a **Software Engineer** and **Computer Science student** passionate about building innovative open-source projects — from smart Android apps to practical Python tools and real-time ML systems.
 
 🎯 I focus on:
