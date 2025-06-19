@@ -44,11 +44,45 @@ A lightweight, fast, and user-friendly **Ethio Telecom** & **Safaricom** USSD Se
 
 ---
 
-### 🟩 pynum2words  
-Multilingual number-to-words and words-to-number converter in Python.  
-[![PyPI](https://img.shields.io/pypi/v/pynum2words?color=brightgreen&logo=pypi)](https://pypi.org/project/pynum2words)  
-[![View on GitHub](https://img.shields.io/badge/Repo-Link-blue?logo=github)](https://github.com/birukbelihu/pynum2words)
+<details>
+<summary>🛠️ <strong>Open Source Projects</strong> (see more)</summary>
 
+### 🔢 pynum2words  
+A multilingual Python library that converts numbers to words and vice versa.  
+Supports **Amharic, English, Hindi, Spanish, Swahili, German, Japanese**, and more.  
+Great for localization, fintech, and educational apps.
+
+[![PyPI](https://img.shields.io/pypi/v/pynum2words?color=brightgreen&logo=python)](https://pypi.org/project/pynum2words)  
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/pynum2words)
+
+---
+
+### 😷 FaceMaskDetector  
+Real-time face mask detection using OpenCV and a custom-trained deep learning model.  
+Supports webcam feed and image input — great for safety and monitoring apps.
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/FaceMaskDetector)
+
+---
+
+### 🎭 BlurMe  
+A simple yet powerful face anonymizer using OpenCV in Python.  
+Automatically detects and blurs faces in photos — perfect for privacy protection.
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/BlurMe)
+
+---
+
+### ⚡ QuickDart (VS Code Extension)  
+A powerful Visual Studio Code extension that helps developers:  
+- Quickly scaffold Dart packages with clean structure  
+- Run Dart programs directly inside VS Code  
+- Auto-guide Dart SDK installation if not already installed
+
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.quickdart?label=VS%20Code%20Marketplace&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.quickdart)  
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/quickdart)
+
+</details>
 📚 **Follow me for Android tutorials & dev content:**
 - **Telegram** 👉 [AndroidDevsTutorial](https://t.me/androiddevstutorial)
 - **YouTube** 👉 [@AndroidDevsTutorials](https://youtube.com/@AndroidDevsTutorials)
