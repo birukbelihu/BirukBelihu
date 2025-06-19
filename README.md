@@ -58,31 +58,29 @@ Great for localization, fintech, and educational apps.
 ---
 
 ### 😷 FaceMaskDetector  
-Real-time face mask detection using OpenCV and a custom-trained deep learning model.  
-Supports webcam feed and image input — great for safety and monitoring apps.
+A Real Time face mask detection using Computer Vision & Machine Learning in Python.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/FaceMaskDetector)
 
 ---
 
 ### 🎭 BlurMe  
-A simple yet powerful face anonymizer using OpenCV in Python.  
-Automatically detects and blurs faces in photos — perfect for privacy protection.
+A simple yet powerful face anonymizer using Computer Vision & Deep Learning in Python.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/BlurMe)
 
 ---
 
-### ⚡ QuickDart (VS Code Extension)  
+### ⚡ QuickDart (Visual Studio Code Extension)  
 A powerful Visual Studio Code extension that helps developers:  
-- Quickly scaffold Dart packages with clean structure  
-- Run Dart programs directly inside VS Code  
+- Run Dart programs directly inside Visual Studio Code  
 - Auto-guide Dart SDK installation if not already installed
 
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.quickdart?label=VS%20Code%20Marketplace&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.quickdart)  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/quickdart)
 
 </details>
+
 📚 **Follow me for Android tutorials & dev content:**
 - **Telegram** 👉 [AndroidDevsTutorial](https://t.me/androiddevstutorial)
 - **YouTube** 👉 [@AndroidDevsTutorials](https://youtube.com/@AndroidDevsTutorials)
