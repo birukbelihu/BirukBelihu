@@ -3,10 +3,10 @@
 Welcome to my GitHub! I'm a **Software Engineer** and **Computer Science student** passionate about building innovative open-source projects — from smart Android apps to practical Python tools and real-time ML systems.
 
 🎯 I focus on:
-- 📱 Android development (Java, CameraView)
+- 📱 Android development (Java)
 - 🧠 Machine Learning & Computer Vision
 - 🖥️ Python automation (GUI/CLI/Web tools)
-- 🌍 Cultural and utility apps (like Baherehasab)
+- 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች)
 
 ---
 
@@ -23,11 +23,14 @@ Welcome to my GitHub! I'm a **Software Engineer** and **Computer Science student
 ---
 
 <details>
-<summary>📂 <strong>Featured Projects</strong> (click to expand)</summary>
+<summary>📂 <strong>Apps</strong> (click to expand)</summary>
 
 ### 🔶 Baherehasab (ባሕረ ሓሳብ) Android App  
 A modern Ethiopian calendar with religious holidays and fasting periods.  
-[![View on GitHub](https://img.shields.io/badge/Repo-Link-blue?logo=github)](https://github.com/birukbelihu/BahereHasab)
+
+<a href='https://com-bibelapps-baherehasab.en.uptodown.com/android' title='Download ባህረሐሳብ' >
+                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download ባህረሐሳብ'>
+                </a>
 
 ---
 
