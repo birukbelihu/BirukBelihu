@@ -40,7 +40,7 @@ A lightweight, fast, and user-friendly **Ethio Telecom** & **Safaricom** USSD Se
 <a href='https://ethio-plus-safari.en.uptodown.com/android' title='Download Ethio+ Safari'>
   <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Ethio+ Safari' width='200'>
 </a>
-/details>
+</details>
 
 ---
 
