@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Biruk Belihu
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=birukbelihu.BirukBelihu)
-
 Welcome to my GitHub Profile! I'm a **Software Engineer** passionate about building innovative open-source projects — from smart Android apps to practical Python tools and real-time ML systems.
 
 🎯 I focus on:
@@ -21,13 +19,13 @@ Welcome to my GitHub Profile! I'm a **Software Engineer** passionate about build
 <summary>📂 <strong>Apps</strong> (see more)</summary>
 
 ### 🔶 ባሕረሐሳብ 
-A modern Ethiopian calendar that shows **Ethiopian Orthodox Tewahido Church** holidays, fasting periods, and church events based on traditional Bahere Hasab calculations.
+A modern Ethiopian calendar that shows **Ethiopian Orthodox Tewahido Church** holidays, fasting periods, and church events based onBahere Hasab formula.
 
 <a href='https://com-bibelapps-baherehasab.en.uptodown.com/android' title='Download ባህረሐሳብ' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download ባህረሐሳብ'>
                 </a>
 
-### 🔢 Geez Numbers App  
+### 🔢 የግዕዝ ቁጥሮች 
 Easily convert between **Geez (ግዕዝ)** and Arabic numerals. This app is great for students, educators, and anyone learning or working with Ethiopia’s traditional numbering system.
 
 <a href='https://com-bibelapps-geeznumbers.en.uptodown.com/android' title='Download Geez Numbers'>
