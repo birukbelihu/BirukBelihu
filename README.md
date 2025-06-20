@@ -7,16 +7,10 @@ Welcome to my GitHub Profile! I'm a **Programmer** passionate about building inn
 - 🧠 Machine Learning & Computer Vision
 - 🖥️ Python automation (GUI/CLI/Web tools)
 - 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች & Ethio + Safari Apps & More)
-
----
-
-📌 **Check out my GitHub Portfolio:**  
-🔗 [birukbelihu.github.io/portfolio](https://birukbelihu.github.io/portfolio/)
-
 ---
 
 <details>
-<summary>📂 <strong>Apps</strong> (see more)</summary>
+<summary>📂 <strong>Apps</strong> (...)</summary>
 
 ### 🔶 ባሕረሐሳብ 
 A modern **Ethiopian Orthodox Tewahido Church** holidays, fasting periods, and church events based on Baherehasab formula.
@@ -45,7 +39,7 @@ A lightweight, fast, and user-friendly **Ethio Telecom** & **Safaricom** USSD Se
 ---
 
 <details>
-<summary>🛠️ <strong>Open Source Projects</strong> (see more)</summary>
+<summary>🛠️ <strong>Open Source Projects</strong> (...)</summary>
 
 ### 🔢 pynum2words  
 A multilingual Python library that converts numbers to words and vice versa.  
@@ -79,6 +73,11 @@ A powerful Visual Studio Code extension that helps developers:
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.quickdart?label=VS%20Code%20Marketplace&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.quickdart)  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/quickdart)
 
+📌 **For compelete list of my projects check out my GitHub Portfolio:**  
+🔗 [birukbelihu.github.io/portfolio](https://birukbelihu.github.io/portfolio/)
+
+![Here is my github language statstics across my projects](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
+
 </details>
 
 📚 **Follow me for Android tutorials & dev content:**
@@ -87,5 +86,3 @@ A powerful Visual Studio Code extension that helps developers:
 - **Blogger** 👉 [androiddevelopersb.blogspot.com](https://androiddevelopersb.blogspot.com)
 - **WhatsApp Channel** 👉 [Join here](https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K)
 - **LinkTree** 👉 [All in one](https://linktr.ee/androiddeveloperspage)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
