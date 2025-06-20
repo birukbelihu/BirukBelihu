@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Biruk Belihu
 
-Welcome to my GitHub Profile! I'm a **Programmer** passionate about building innovative solutions — from smart Android apps to practical Python tools and real-time Machine Learning systems.
+Welcome to my GitHub Profile! I'm a **Programmer** passionate about building innovative solutions — from Android apps to practical Python tools and real-time Machine Learning systems.
 
 🎯 I focus on:
 - 📱 Android development (Java)
