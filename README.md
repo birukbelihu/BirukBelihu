@@ -29,10 +29,10 @@ Easily learn Ethiopian **Geez (ግዕዝ)** numerals. This app is great for stud
 ---
 
 ### 📱 Ethio+ Safari App  
-A lightweight, fast, and user-friendly **Ethio Telecom** & **Safaricom** USSD Services ciient for Ethiopian users. It simplifies common Ethio Telecom & Safaricom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
+A lightweight, fast, and user-friendly **Ethiotelecom** & **Safaricom Ethiopia** USSD Services client for Ethiopian users. It simplifies common Ethio Telecom & Safaricom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
 
-<a href='https://ethio-plus-safari.en.uptodown.com/android' title='Download Ethio+ Safari'>
-  <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Ethio+ Safari' width='200'>
+<a href='https://ethio-plus-safari.en.uptodown.com/android' title='Download Ethio + Safari'>
+  <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Ethio + Safari' width='200'>
 </a>
 </details>
 
@@ -73,10 +73,13 @@ A powerful Visual Studio Code extension that helps developers:
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.quickdart?label=VS%20Code%20Marketplace&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.quickdart)  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/quickdart)
 
-📌 **For compelete list of my projects check out my GitHub Portfolio:**  
+📌 **For complete list of my projects check out my GitHub Portfolio:**
+
 🔗 [birukbelihu.github.io/portfolio](https://birukbelihu.github.io/portfolio/)
 
-![Here is my github language statstics across my projects](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
+📌 **Here is my GitHub language statistics across my projects**
+
+![Here is my github language statistics across my projects](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
 
 </details>
 
