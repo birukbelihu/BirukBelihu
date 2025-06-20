@@ -20,7 +20,7 @@ A modern **Ethiopian Orthodox Tewahido Church** holidays, fasting periods, and c
                 </a>
 
 ### 🔢 የግዕዝ ቁጥሮች 
-Easily learn Ethiopian **Geez (ግዕዝ)** and Arabic numerals. This app is great for students, educators, researchers and anyone learning or working with Ethiopia’s traditional numbering system.
+Easily learn Ethiopian **Geez (ግዕዝ)** numerals. This app is great for students, educators, researchers and anyone learning or working with Ethiopia’s traditional numbering system.
 
 <a href='https://com-bibelapps-geeznumbers.en.uptodown.com/android' title='Download Geez Numbers'>
   <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Geez Numbers' width='200'>
