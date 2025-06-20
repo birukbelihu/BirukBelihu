@@ -13,7 +13,7 @@ Welcome to my GitHub Profile! I'm a **Programmer** passionate about building inn
 <summary>📂 <strong>Apps</strong> (...)</summary>
 
 ### 🔶 ባሕረሐሳብ 
-A modern **Ethiopian Orthodox Tewahido Church** holidays, fasting periods, and church events based on Baherehasab formula.
+A modern **Ethiopian Orthodox Tewahido Church** holidays, fasting periods, and church events calendar based on Baherehasab formula.
 
 <a href='https://com-bibelapps-baherehasab.en.uptodown.com/android' title='Download ባህረሐሳብ' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download ባህረሐሳብ'>
