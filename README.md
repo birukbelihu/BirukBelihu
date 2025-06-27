@@ -29,7 +29,7 @@ Easily learn Ethiopian **Geez (ግዕዝ)** numerals. This app is great for stud
 ---
 
 ### 📱 Ethio+ Safari App  
-A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom.et/)** & **[Safaricom](https://safaricom.et/) Ethiopia** USSD Services client for Ethiopian users. It simplifies common Ethio Telecom & Safaricom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
+A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom.et/)** & **[Safaricom Ethiopia](https://safaricom.et/)** USSD Services client for Ethiopian users. It simplifies common Ethio Telecom & Safaricom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
 
 <a href='https://ethio-plus-safari.en.uptodown.com/android' title='Download Ethio + Safari'>
   <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Ethio + Safari' width='200'>
