@@ -6,14 +6,14 @@ Welcome to my GitHub Profile! I'm a **Programmer** passionate about building inn
 - 📱 Android development (Java)
 - 🧠 Machine Learning & Computer Vision (Python)
 - 🖥️ Python automation (GUI/CLI/Web tools)
-- 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች & Ethio + Safari Apps & More)
+- 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች & Ethio + Safari & More)
 ---
 
 <details>
 <summary>📂 <strong>Apps</strong> (...)</summary>
 
 ### 🔶 ባሕረሐሳብ 
-A modern **Ethiopian Orthodox Tewahido Church** holidays, fasting periods, and church events calendar based on Baherehasab formula.
+A modern **[Ethiopian Orthodox Tewahedo Church](https://www.ethiopianorthodox.org/)** holidays, fasting periods, and church events calendar based on Baherehasab formula.
 
 <a href='https://com-bibelapps-baherehasab.en.uptodown.com/android' title='Download ባህረሐሳብ' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download ባህረሐሳብ'>
@@ -29,7 +29,7 @@ Easily learn Ethiopian **Geez (ግዕዝ)** numerals. This app is great for stud
 ---
 
 ### 📱 Ethio+ Safari App  
-A lightweight, fast, and user-friendly **Ethiotelecom** & **Safaricom Ethiopia** USSD Services client for Ethiopian users. It simplifies common Ethio Telecom & Safaricom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
+A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom.et/)** & **[Safaricom](https://safaricom.et/) Ethiopia** USSD Services client for Ethiopian users. It simplifies common Ethio Telecom & Safaricom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
 
 <a href='https://ethio-plus-safari.en.uptodown.com/android' title='Download Ethio + Safari'>
   <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Ethio + Safari' width='200'>
@@ -59,7 +59,7 @@ A Real Time face mask detection using Computer Vision & Machine Learning in Pyth
 ---
 
 ### 🎭 BlurMe  
-A simple yet powerful face anonymizer using Computer Vision & Deep Learning in Python.
+A simple face anonymizer using Computer Vision & Deep Learning in Python.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/BlurMe)
 
