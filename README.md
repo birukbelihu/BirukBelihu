@@ -42,9 +42,7 @@ A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom
 <summary>🛠️ <strong>Open Source Projects</strong> (...)</summary>
 
 ### 🔢 pynum2words  
-A multilingual Python library that converts numbers to words and vice versa.  
-Supports **Amharic, English, Hindi, Spanish, Swahili, German, Japanese**, and more.  
-Great for localization, fintech, and educational apps.
+pynum2words is a Python package for converting numbers to their word representation and vice versa, using a built-in or custom dictionary.
 
 [![PyPI](https://img.shields.io/pypi/v/pynum2words?color=brightgreen&logo=python)](https://pypi.org/project/pynum2words)  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/pynum2words)
