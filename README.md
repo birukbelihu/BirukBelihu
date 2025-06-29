@@ -4,7 +4,7 @@ Welcome to my GitHub Profile! I'm a **Programmer** passionate about building inn
 
 🎯 I focus on:
 - 📱 Android development (Java)
-- 🧠 Machine Learning, Deep Learning & Computer Vision (Python)
+- 🧠 Machine Learning, Deep Learning & Computer Vision
 - 🖥️ Python automation (GUI/CLI/Web tools)
 - 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች & Ethio + Safari & More)
 ---
@@ -52,14 +52,14 @@ Great for localization, fintech, and educational apps.
 ---
 
 ### 😷 FaceMaskDetector  
-A Real Time face mask detection using Computer Vision & Machine Learning in Python.
+A Simple COVID19 Face Mask Detector In A Live Camera Using Computer Vision & Machine Learning.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/FaceMaskDetector)
 
 ---
 
 ### 🎭 BlurMe  
-A simple face anonymizer using Computer Vision & Deep Learning in Python.
+A simple face anonymizer using Computer Vision & Deep Learning.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/BlurMe)
 
