@@ -3,10 +3,10 @@
 Welcome to my GitHub Profile! I'm a **Programmer** passionate about building innovative solutions — from Android apps to practical Python tools and real-time Machine Learning systems.
 
 🎯 I focus on:
-- 📱 Android development (Java)
-- 🧠 Machine Learning, Deep Learning & Computer Vision
+- 📱 Android development
 - 🖥️ Python automation (GUI/CLI/Web tools)
-- 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች & Ethio + Safari & More)
+- 🧠 Machine Learning, Deep Learning & Computer Vision
+- 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች, Ethio + Safari & More)
 ---
 
 <details>
