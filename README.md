@@ -65,8 +65,8 @@ A simple face anonymizer using Computer Vision & Deep Learning.
 ---
 
 ### ⚡ QuickDart (Visual Studio Code Extension)  
-A powerful Visual Studio Code extension that helps developers:  
-- Run Dart programs directly inside Visual Studio Code  
+A simple but useful Visual Studio Code extension that helps developers:  
+- Run Dart source files directly inside Visual Studio Code  
 - Auto-guide Dart SDK installation if not already installed
 
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.quickdart?label=VS%20Code%20Marketplace&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.quickdart)  
