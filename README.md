@@ -6,7 +6,7 @@ Welcome to my GitHub Profile! I'm a **Programmer** passionate about building inn
 - 📱 Android development
 - 🖥️ Python automation (GUI/CLI/Web tools)
 - 🧠 Machine Learning, Deep Learning & Computer Vision
-- 🌍 Cultural and utility apps like ባህረሐሳብ, የግዕዝ ቁጥሮች, Ethio + Safari & More)
+- 🌍 Cultural and utility apps like **ባህረሐሳብ**, **የግዕዝ ቁጥሮች**, **Ethio + Safari** & More)
 ---
 
 <details>
@@ -46,11 +46,12 @@ pynum2words is a Python package for converting numbers to their word representat
 
 [![PyPI](https://img.shields.io/pypi/v/pynum2words?color=brightgreen&logo=python)](https://pypi.org/project/pynum2words)  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/pynum2words)
+[![PyPI Downloads](https://static.pepy.tech/badge/pynum2words)](https://pepy.tech/projects/pynum2words)
 
 ---
 
 ### 😷 FaceMaskDetector  
-A Simple COVID19 Face Mask Detector In A Live Camera Using Computer Vision & Machine Learning.
+A Simple COVID19 Face Mask Detector In A Live Camera Using Computer Vision & Deep Learning.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/FaceMaskDetector)
 
