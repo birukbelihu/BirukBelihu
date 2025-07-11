@@ -4,7 +4,7 @@ Welcome to my GitHub Profile! I'm a **Programmer** passionate about building inn
 
 🎯 I focus on:
 - 📱 Android development
-- 🖥️ Python automation (GUI/CLI/Web tools)
+- 🖥️ Python Development
 - 🧠 Machine Learning, Deep Learning & Computer Vision
 - 🌍 Cultural and utility apps like **ባህረሐሳብ**, **የግዕዝ ቁጥሮች**, **Ethio + Safari** & More)
 ---
@@ -42,7 +42,7 @@ A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom
 <summary>🛠️ <strong>Open Source Projects</strong> (...)</summary>
 
 ### 🔢 pynum2words  
-pynum2words is a Python package for converting numbers to their word representation and vice versa, using a built-in or custom dictionary.
+pynum2words is a Python library for converting numbers to their word representation and vice versa, using a built-in or custom dictionary.
 
 [![PyPI](https://img.shields.io/pypi/v/pynum2words?color=brightgreen&logo=python)](https://pypi.org/project/pynum2words)  
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/pynum2words)
