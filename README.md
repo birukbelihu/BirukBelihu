@@ -62,16 +62,6 @@ A simple face anonymizer using Computer Vision & Deep Learning.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/BlurMe)
 
----
-
-### ⚡ QuickDart (Visual Studio Code Extension)  
-A simple but useful Visual Studio Code extension that helps developers:  
-- Run Dart source files directly inside Visual Studio Code  
-- Auto-guide Dart SDK installation if not already installed
-
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.quickdart?label=VS%20Code%20Marketplace&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.quickdart)  
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/quickdart)
-
 📌 **For complete list of my projects check out my GitHub Portfolio:**
 
 🔗 [birukbelihu.github.io/portfolio](https://birukbelihu.github.io/portfolio/)
