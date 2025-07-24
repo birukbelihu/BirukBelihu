@@ -50,6 +50,14 @@ pynum2words is a Python library for converting numbers to their word representat
 
 ---
 
+### 🔢 Glow
+Glow is a lightweight, markdown-style console text formatter for Java. It enables developers to output styled text in the terminal using simple and readable tags like [red bold]Error[/].
+
+![JitPack](https://img.shields.io/jitpack/version/com.github.birukbelihu/glow)
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/Glow)
+
+---
+
 ### 😷 FaceMaskDetector  
 A Simple COVID19 Face Mask Detector In A Live Camera Using Computer Vision & Deep Learning.
 
