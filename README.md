@@ -3,8 +3,8 @@
 Welcome to my GitHub Profile! I'm a **Programmer** passionate about building innovative solutions — from Android apps to practical Python tools and real-time Machine Learning systems.
 
 🎯 I focus on:
-- 📱 Android development
-- 🖥️ Python Development
+- 📱 Android app development
+- 🖥️ Python programming
 - 🧠 Machine Learning, Deep Learning & Computer Vision
 - 🌍 Cultural and utility apps like **ባህረሐሳብ**, **የግዕዝ ቁጥሮች**, **Ethio + Safari** & More)
 ---
@@ -28,7 +28,7 @@ Easily learn Ethiopian **Geez (ግዕዝ)** numerals. This app is great for stud
 
 ---
 
-### 📱 Ethio+ Safari App  
+### 📱 Ethio + Safari App  
 A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom.et/)** & **[Safaricom Ethiopia](https://safaricom.et/)** USSD Services client for Ethiopian users. It simplifies common Ethio Telecom & Safaricom USSD services like balance check, airtime transfer, package subscriptions, and more — all in one place.
 
 <a href='https://ethio-plus-safari.en.uptodown.com/android' title='Download Ethio + Safari'>
