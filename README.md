@@ -78,7 +78,7 @@ A simple face anonymizer using Computer Vision & Deep Learning.
 
 ![Here is my github language statistics across my projects](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
 
-## Here is the list my list of favorite IDEs👨‍💻
+## Here is the list my of favorite IDEs👨‍💻
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=cyan)
 
