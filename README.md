@@ -70,7 +70,15 @@ A simple face anonymizer using Computer Vision & Deep Learning.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/BlurMe)
 
-## IDEs 👨‍💻
+📌 **For complete list of my projects check out my GitHub Portfolio:**
+
+🔗 [birukbelihu.github.io/portfolio](https://birukbelihu.github.io/portfolio/)
+
+📌 **Here is my GitHub language statistics across my projects**
+
+![Here is my github language statistics across my projects](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
+
+## Here is the list my list of favorite IDEs👨‍💻
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=cyan)
 
@@ -79,14 +87,6 @@ A simple face anonymizer using Computer Vision & Deep Learning.
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=cyan)
 
 ![Visual Studio Code](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-📌 **For complete list of my projects check out my GitHub Portfolio:**
-
-🔗 [birukbelihu.github.io/portfolio](https://birukbelihu.github.io/portfolio/)
-
-📌 **Here is my GitHub language statistics across my projects**
-
-![Here is my github language statistics across my projects](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
 
 </details>
 
