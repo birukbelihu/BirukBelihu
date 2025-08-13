@@ -70,11 +70,13 @@ A simple face anonymizer using Computer Vision & Deep Learning.
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/BlurMe)
 
-## Favorite IDEs 👨‍💻
+## IDEs Used 👨‍💻
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 📌 **For complete list of my projects check out my GitHub Portfolio:**
 
