@@ -86,7 +86,7 @@ A simple face anonymizer using Computer Vision & Deep Learning.
 
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=cyan)
 
-![Visual Studio Code](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=cyan)
 
 </details>
 
