@@ -72,9 +72,11 @@ A simple face anonymizer using Computer Vision & Deep Learning.
 
 ## IDEs 👨‍💻
 
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=cyan)
 
-![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-brightgreen?style=for-the-badge&logo=android-studio&logoColor=cyan)
+
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=cyan)
 
 ![Visual Studio Code](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
