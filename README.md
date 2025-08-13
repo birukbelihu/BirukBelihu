@@ -1,3 +1,5 @@
+![Profile View Count](https://komarev.com/ghpvc/?username=birukbelihu&label=Profile%20View%20Count&color=cyan&style=flat-square)
+
 ## 👋 Hi there, I'm Biruk Belihu
 
 Welcome to my GitHub Profile! I'm a **Programmer** passionate about building innovative solutions — from Android apps to practical Python tools and real-time Machine Learning systems.
