@@ -1,4 +1,4 @@
-![Profile View Count](https://komarev.com/ghpvc/?username=birukbelihu&label=Profile%20View%20Count&color=cyan&style=flat-square)
+![Profile View Count](https://komarev.com/ghpvc/?username=birukbelihu&label=Profile%20View%20Count&color=blue&style=flat-square)
 
 ## 👋 Hi there, I'm Biruk Belihu
 
