@@ -1,10 +1,10 @@
-## 👋 Hi there, I'm Biruk Belihu
+## 👋 Hey there, I'm Biruk Belihu
 
 Welcome to my GitHub Profile! I'm a **Programmer** passionate about building innovative solutions — from Android apps to practical Python tools and real-time Machine Learning systems.
 
 🎯 I focus on:
 - 📱 Android app development
-- 🖥️ Python programming
+- 🖥️ Python
 - 🧠 Machine Learning, Deep Learning & Computer Vision
 - 🌍 Cultural and utility apps like **ባህረሐሳብ**, **የግዕዝ ቁጥሮች**, **Ethio + Safari** & More)
 ---
@@ -50,12 +50,19 @@ pynum2words is a Python library for converting numbers to their word representat
 
 ---
 
-### 🔢 Glow
-Glow is a lightweight, markdown-style console text formatter library for Java. It enables developers to output styled text in the terminal using simple and readable tags like [red bold]Error[/].
+### 🌈 Glow
+Glow is a lightweight, cross-platform markdown-style console text formatter library for Java.
 
 [![](https://jitpack.io/v/birukbelihu/Glow.svg)](https://jitpack.io/#birukbelihu/Glow)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/Glow)
 
+### 🌈 pyglow(Glow alternative for python)
+
+pyglow is a lightweight, cross-platform, markdown-style console text formatter library for python.
+
+[![PyPI](https://img.shields.io/pypi/v/pyglowx?color=brightgreen&logo=python)](https://pypi.org/project/pyglowx)  
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/pyglow)
+[![PyPI Downloads](https://static.pepy.tech/badge/pyglowx)](https://pepy.tech/projects/pyglowx)
 ---
 
 ### 😷 FaceMaskDetector  
