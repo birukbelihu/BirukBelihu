@@ -50,7 +50,7 @@ pynum2words is a Python library for converting numbers to their word representat
 
 ---
 
-### 🌈 pyglow(Glow alternative for python)
+### 🌈 pyglow
 
 pyglow is a lightweight, cross-platform, markdown-style console output formatter library for python.
 
