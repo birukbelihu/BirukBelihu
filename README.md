@@ -50,12 +50,6 @@ pynum2words is a Python library for converting numbers to their word representat
 
 ---
 
-### 🌈 Glow
-Glow is a lightweight, cross-platform markdown-style console text formatter library for Java.
-
-[![](https://jitpack.io/v/birukbelihu/Glow.svg)](https://jitpack.io/#birukbelihu/Glow)
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/Glow)
-
 ### 🌈 pyglow(Glow alternative for python)
 
 pyglow is a lightweight, cross-platform, markdown-style console text formatter library for python.
