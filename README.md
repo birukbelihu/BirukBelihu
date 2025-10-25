@@ -38,8 +38,6 @@ A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom
 
 ---
 
-📌 **Here is my GitHub stats**
-
 [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/birukbelihu?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Here is the list of my favorite IDEs 🤗
