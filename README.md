@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Biruk Belihu
 
-Welcome to my GitHub Profile! I'm a **Programmer** passionate about building innovative solutions — from Android apps to practical Python tools and real-time Machine Learning systems.
+Welcome to my GitHub Profile! I'm a **Programmer** passionate about building innovative solution.
 
 🎯 I focus on:
 - 📱 Android app development
@@ -41,15 +41,6 @@ A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom
 <details>
 <summary>🛠️ <strong>Open Source Projects</strong> (...)</summary>
 
-### 🔢 pynum2words  
-pynum2words is a Python library for converting numbers to their word representation and vice versa, using a built-in or custom dictionary.
-
-[![PyPI](https://img.shields.io/pypi/v/pynum2words?color=brightgreen&logo=python)](https://pypi.org/project/pynum2words)  
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/pynum2words)
-[![PyPI Downloads](https://static.pepy.tech/badge/pynum2words)](https://pepy.tech/projects/pynum2words)
-
----
-
 ### 🌈 pyglow
 
 pyglow is a lightweight, cross-platform, markdown-style console output formatter library for python.
@@ -58,26 +49,6 @@ pyglow is a lightweight, cross-platform, markdown-style console output formatter
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/pyglow)
 [![PyPI Downloads](https://static.pepy.tech/badge/pyglowx)](https://pepy.tech/projects/pyglowx)
 ---
-
-### 😷 FaceMaskDetector  
-A Simple COVID19 Face Mask Detector In A Live Camera Using Computer Vision & Deep Learning.
-
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/FaceMaskDetector)
-
----
-
-### 🎭 BlurMe  
-A simple face anonymizer using Computer Vision & Deep Learning.
-
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/BlurMe)
-
-📌 **For complete list of my projects check out my GitHub Portfolio:**
-
-🔗 [birukbelihu.github.io/portfolio](https://birukbelihu.github.io/portfolio/)
-
-📌 **Here is my GitHub language statistics across my projects**
-
-![Here is my github language statistics across my projects](https://github-readme-stats.vercel.app/api/top-langs/?username=birukbelihu&layout=compact&langs_count=8&hide=html)
 
 📌 **Here is my GitHub stats**
 
