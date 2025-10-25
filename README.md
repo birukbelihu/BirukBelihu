@@ -40,16 +40,6 @@ A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom
 
 [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/birukbelihu?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-## Here is the list of my favorite IDEs 🤗
-
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=cyan)
-
-![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=cyan)
-
-![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-brightgreen?style=for-the-badge&logo=android-studio&logoColor=cyan)
-
-![Visual Studio Code](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=cyan)
-
 </details>
 
 📚 **Follow me for Android tutorials & dev content:**
