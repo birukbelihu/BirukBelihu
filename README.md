@@ -9,9 +9,8 @@ Welcome to my GitHub Profile! I'm a **Programmer** passionate about building inn
 - 🌍 Cultural and utility apps like **ባህረሐሳብ**, **የግዕዝ ቁጥሮች**, **Ethio + Safari** & More)
 ---
 
+<summary>📂 <strong>Apps</strong> (...)
 <details>
-<summary>📂 <strong>Apps</strong> (...)</summary>
-
 ### 🔶 ባሕረሐሳብ 
 A modern **[Ethiopian Orthodox Tewahedo Church](https://www.ethiopianorthodox.org/)** holidays, fasting periods, and church events calendar based on Baherehasab formula.
 
