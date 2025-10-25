@@ -9,8 +9,8 @@ Welcome to my GitHub Profile! I'm a **Programmer** passionate about building inn
 - 🌍 Cultural and utility apps like **ባህረሐሳብ**, **የግዕዝ ቁጥሮች**, **Ethio + Safari** & More)
 ---
 
-<summary>📂 <strong>Apps</strong> (...)
-<details>
+<strong>Apps</strong>
+
 ### 🔶 ባሕረሐሳብ 
 A modern **[Ethiopian Orthodox Tewahedo Church](https://www.ethiopianorthodox.org/)** holidays, fasting periods, and church events calendar based on Baherehasab formula.
 
@@ -33,13 +33,10 @@ A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom
 <a href='https://ethio-plus-safari.en.uptodown.com/android' title='Download Ethio + Safari'>
   <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Ethio + Safari' width='200'>
 </a>
-</details>
 
 ---
 
 [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/birukbelihu?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-
-</details>
 
 📚 **Follow me for Android tutorials & dev content:**
 - **Telegram** 👉 [AndroidDevsTutorial](https://t.me/androiddevstutorial)
