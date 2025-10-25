@@ -38,18 +38,6 @@ A lightweight, fast, and user-friendly **[Ethiotelecom](https://www.ethiotelecom
 
 ---
 
-<details>
-<summary>🛠️ <strong>Open Source Projects</strong> (...)</summary>
-
-### 🌈 pyglow
-
-pyglow is a lightweight, cross-platform, markdown-style console output formatter library for python.
-
-[![PyPI](https://img.shields.io/pypi/v/pyglowx?color=brightgreen&logo=python)](https://pypi.org/project/pyglowx)  
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-blue?logo=github)](https://github.com/birukbelihu/pyglow)
-[![PyPI Downloads](https://static.pepy.tech/badge/pyglowx)](https://pepy.tech/projects/pyglowx)
----
-
 📌 **Here is my GitHub stats**
 
 [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/birukbelihu?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
